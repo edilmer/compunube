@@ -1,0 +1,7 @@
+
+
+[200~*.box
+*.log
+.cache/
+.ipynb_checkpoints/
+.vagrant/
